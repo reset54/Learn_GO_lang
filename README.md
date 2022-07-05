@@ -1,1 +1,3 @@
 # Learn Golang
+
+some programms for Learn and use Go-functions, go-routines, ...
